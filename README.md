@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a software engineer and [software engineering researcher](https://zieris.net).
+
 <!--
 **fzieris/fzieris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
